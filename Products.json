@@ -1,0 +1,34 @@
+[
+  {
+    "id": "netflix",
+    "nombre": "Netflix",
+    "categoria": "Video",
+    "descripcion": "Series y películas. Consulta pantallas y calidad disponibles.",
+    "precio": "$7.99 / mes",
+    "imagen": "https://images.unsplash.com/photo-1526948128573-703ee1aeb6fa?auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": "disneyplus",
+    "nombre": "Disney+",
+    "categoria": "Video",
+    "descripcion": "Disney, Marvel, Star Wars y más. Ideal para toda la familia.",
+    "precio": "$6.99 / mes",
+    "imagen": "https://images.unsplash.com/photo-1611162616475-46b635cb6868?auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": "hbomax",
+    "nombre": "HBO Max",
+    "categoria": "Video",
+    "descripcion": "Series premium y estrenos. Pregunta por promociones.",
+    "precio": "$7.49 / mes",
+    "imagen": "https://images.unsplash.com/photo-1485846234645-a62644f84728?auto=format&fit=crop&w=1400&q=60"
+  },
+  {
+    "id": "spotify",
+    "nombre": "Spotify Premium",
+    "categoria": "Música",
+    "descripcion": "Música sin anuncios y modo offline. Consulta planes.",
+    "precio": "$4.99 / mes",
+    "imagen": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=1400&q=60"
+  }
+]
